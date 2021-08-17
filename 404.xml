@@ -1,8 +1,8 @@
 
 <?xml version="1.0" encoding="UTF-8"?>
 <Error>
-  <Code>UserDisable</Code>
-  <Message>UserDisable</Message>
-  <RequestId>611B84DEBCC63E3838EBB02A</RequestId>
-  <HostId>window.location.href</HostId>
+  <Code>404</Code>
+  <Message>404 Not Found</Message>
+  <RequestId>404 Not Found</RequestId>
+  <HostId>starworldstudios.github.io</HostId>
 </Error>
